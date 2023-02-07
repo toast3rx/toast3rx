@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=toast3rx&show_icons=true&theme=radical">
 
-# Hi there, I'm Mihai aka toaster 👋
+# Hi there, I'm Mihai - aka toaster 👋
 
 - 🎒 Low level software engineer wannabe
 - 🌱 Full stack engineer newbie 🤣
