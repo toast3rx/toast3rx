@@ -1,4 +1,5 @@
 <img style="float:right" align="left" src="https://github-readme-stats.vercel.app/api?username=toast3rx&show_icons=true&theme=radical">
+<p style ="float:left">
 
 # Hi there, I'm Mihai 👋 
 
@@ -8,7 +9,7 @@
 
 ### Languages:
 
-<p>
+
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <!-- angular icon -->
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
