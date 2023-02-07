@@ -1,5 +1,4 @@
-<img style="float:right" align="left" src="https://github-readme-stats.vercel.app/api?username=toast3rx&show_icons=true&theme=radical">
-<p style ="float:left">
+<div style ="float:left" markdown="1">
 
 # Hi there, I'm Mihai 👋 
 
@@ -22,3 +21,5 @@
 <!-- bash -->
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 </p>
+</div>
+<img style="float:right" align="left" src="https://github-readme-stats.vercel.app/api?username=toast3rx&show_icons=true&theme=radical">
