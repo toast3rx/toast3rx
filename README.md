@@ -1,4 +1,4 @@
-<img style="float:right" src="https://github-readme-stats.vercel.app/api?username=toast3rx&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=toast3rx&show_icons=true&theme=radical">
 
 # Hi there, I'm Mihai 👋
 
