@@ -2,8 +2,10 @@
 
 # Hi there, I'm Mihai 👋
 
-- ⚡ Fun fact: I love to read and play violin / ukulele
+- 🎒 Low level software engineer wannabe
 - 🌱 Full stack engineer newbie 🤣
+- 😎 I know how to center a div
+- ⚡ Fun fact: I love to read and play violin / ukulele
 
 ### Languages:
 
