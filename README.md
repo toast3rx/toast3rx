@@ -3,7 +3,7 @@
 # Hi there, I'm Mihai - aka toaster 👋
 
 - 🎒 Kernel engineer wannabe
-- 🌱 Full stack engineer newbie 🤣
+- 🌱 Full stack engineer
 - 😎 I know how to center a div
 - ⚡ Fun fact: I love to read and play violin / guitar
 
