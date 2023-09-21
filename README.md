@@ -5,7 +5,7 @@
 - 🎒 Low level software engineer wannabe
 - 🌱 Full stack engineer newbie 🤣
 - 😎 I know how to center a div
-- ⚡ Fun fact: I love to read and play violin / ukulele
+- ⚡ Fun fact: I love to read and play violin / guitar
 
 ### Languages:
 
