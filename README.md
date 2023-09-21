@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mihai - aka toaster 👋
 
-- 🎒 Low level software engineer wannabe
+- 🎒 Kernel engineer wannabe
 - 🌱 Full stack engineer newbie 🤣
 - 😎 I know how to center a div
 - ⚡ Fun fact: I love to read and play violin / guitar
